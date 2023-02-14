@@ -387,6 +387,19 @@
           45.523358157307676
         ]
       }
+    },
+    "type": "Feature",
+    "properties": {
+        "Name": "Woodstock",
+        "Contributor": "Ben AD Asuku",
+        "Reason": "Woodstock not NY but still"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.61506500841317,
+            45.480727009973066
+        ]
     }
   ]
-}
+}}
